@@ -1,2 +1,2 @@
 # OMNIFOOD
-LiINK----- https://manvimm.github.io/OMNIFOOD/Omnifood/
+LiINK----- https://manvimm.github.io/html-css/Omnifood/
